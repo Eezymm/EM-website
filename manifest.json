@@ -1,0 +1,15 @@
+{
+  "name": "Eezy Magundwan Group",
+  "short_name": "Eezy Magundwan",
+  "description": "Life • Growth • Legacy — engineering excellence and sustainable growth across 8 ventures.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0B0B0B",
+  "theme_color": "#0B0B0B",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
